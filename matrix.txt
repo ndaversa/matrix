@@ -1,0 +1,202 @@
++--------------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+
+| Theme        | Associate Web Developer   | Web Developer             | Senior Web Developer      | Staff Web Developer       | Principal Web Developer   |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+|              | Radius: Self              | Radius: Self              | Radius: Squad             | Radius: Chapter           | Radius: Organization      |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Coding       | Focused on growth & learn | Focused on expanding thei | Proficient in all relevan | Puts forth technical prop | Primary expert in multipl |
+|              | ing the chapter’s stack,  | r experience and proficie | t technical skills, and a | osals for sizable impact  | e areas of our organizati |
+|              | best practices, and codeb | ncy in our codebase, with | ble to move quickly becau | for ecobee.               | on’s stack, deeply knowle |
+|              | ase                       | solid understanding of re | se of deep understanding  |                           | dgeable in several domain |
+|              |                           | levant areas.             | of large portions of code |                           | s.                        |
+|              |                           |                           | base. Explores technologi |                           |                           |
+|              |                           |                           | es and trends in the indu |                           |                           |
+|              |                           |                           | stry.                     |                           |                           |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+|              | Writes code and tests adh | Writes maintainable code  |                           | Consistently delivers cod | Has deep understanding of |
+|              | ering to chapter standard | adhering to chapter stand |                           | e that sets the standard  | full stack encompassing t |
+|              | s, iterating based on fee | ards.                     |                           | for quality and maintaina | heir domain. Can navigate |
+|              | dback.                    |                           |                           | bility.                   | and make legacy code main |
+|              |                           |                           |                           |                           | tainable.                 |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+|              | Participates in code revi | Provides helpful, timely  | Provides meaningful code  | Considers high-level arch | Provides oversight, coach |
+|              | ews and technical design. | code reviews.             | reviews which improve the | itecture decisions and ov | ing and guidance through  |
+|              |                           |                           | performance and readabili | erall approach for mainta | code and design reviews.  |
+|              |                           |                           | ty of code                | inability.                |                           |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Debugging    | Understands the basics of | Debugs effectively within | Debugs expertly within th | Persistently debugs the t |                           |
+|              | debugging and the tools u | their primary area to hel | eir primary focus area.   | oughest issues through en |                           |
+|              | sed for it.               | p find root cause.        |                           | tire stack regardless of  |                           |
+|              |                           |                           |                           | environment, finding root |                           |
+|              |                           |                           |                           | cause or a viable workaro |                           |
+|              |                           |                           |                           | und.                      |                           |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Testing      | Knows the testing pyramid | Understands the testing p | Participates in tests at  | Understands their team's  | Understands the testing a |
+|              | . Writes unit tests; some | yramid. Writes unit tests | all levels of the testing | testing approach, and use | pproach of several teams, |
+|              | times with help from more | in accordance with it; ge | pyramid. Writes more scal | s quality metrics to iden | and uses quality metrics  |
+|              | senior engineers.         | ts help from more senior  | able, long-term solutions | tify gaps. Works with the | to identify gaps. Works w |
+|              |                           | engineers for higher leve | for expected edge cases.  | ir team to recommend solu | ith those teams to recomm |
+|              |                           | l tests. Always tests exp |                           | tions that are in accorda | end solutions that are in |
+|              |                           | ected edge cases and erro |                           | nce with accepted testing | accordance with accepted  |
+|              |                           | rs as well as the happy p |                           | frameworks and the testin | testing frameworks and th |
+|              |                           | ath.                      |                           | g pyramid.                | e testing pyramid.        |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Architecture |                           | Understands how code fits | Makes well-reasoned desig | Has a broad understanding | Anticipates technical cha |
+|              |                           | into broader technical co | n decisions, identifying  | of our architecture and h | llenges, exploring altern |
+|              |                           | ntext.                    | potential issues, tradeof | ow their domain fits with | atives and tradeoffs thor |
+|              |                           |                           | fs, risks, and the approp | in it. Systematically thi | oughly. Systematically th |
+|              |                           |                           | riate level of abstractio | nks through potential des | inks through potential de |
+|              |                           |                           | n.                        | ign impacts on other squa | sign impacts on the organ |
+|              |                           |                           |                           | ds and the chapter.       | ization.                  |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Planning & D | Understands value of righ | Before beginning work, en | Reviews tasks critically  | Reviews epics and project | Reviews cross-team work c |
+| elivery      | tsizing tasks to enable c | sures that tasks are appr | and ensures they’re appro | s critically and ensures  | ritically and ensures it’ |
+|              | ontinuous integration and | opriately sized for conti | priately sized for contin | they’re appropriately bro | s appropriately broken do |
+|              | incremental delivery.     | nuous integration and inc | uous integration and incr | ken down and prioritized, | wn and prioritized, and w |
+|              |                           | remental delivery with he | emental delivery.         | and well understood by th | ell understood by all inv |
+|              |                           | lp from teammates and man |                           | e team.                   | olved teams.              |
+|              |                           | ager.                     |                           |                           |                           |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+|              | Commits to & completes ta | Mastering ability to brea | Estimates methodically, b | Successfully plans & exec | Can successfully plan and |
+|              | sks within expected time  | k down tasks, plan, estim | ased on iterative learnin | ute projects involving mu | deliver complex, squad sp |
+|              | frame, holding themselves | ate, and cut scope to shi | g. Sets realistic deadlin | ltiple developers and com | anning systems, long-term |
+|              | accountable. Building est | p on time. Prioritizes in | es that drive effort but  | plex requirements, priori | projects, including ones  |
+|              | imation skills.           | alignment with company go | support healthy work habi | tizing strategically.     | with external dependencie |
+|              |                           | als. Seeks learning throu | ts. Cuts scope as needed, |                           | s.                        |
+|              |                           | gh retrospectives.        | mitigating risk by shippi |                           |                           |
+|              |                           |                           | ng frequently.            |                           |                           |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+|              | Understands the key softw | Ensures the key software  | Actively seeks to ways to | Educates their chapter on | Educates and aids squads  |
+|              | are delivery metrics: lea | delivery metrics are meas | improve the key software  | the key software delivery | and other chapters on mea |
+|              | d time for changes, deplo | ured and actively monitor | delivery metrics within t | metrics and aids others i | suring, monitoring, and i |
+|              | yment frequency, mean tim | s their impact on them.   | heir squad.               | n helping measure and imp | mproving the key software |
+|              | e to recovery (MTTR), and |                           |                           | rove them.                | delivery metrics.         |
+|              | change failure rate.      |                           |                           |                           |                           |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Driven       | Asks for help to get unbl | Seeks input from colleagu | Asks for guidance in unfa | Is forward thinking, reco | Is forward thinking, reco |
+|              | ocked when necessary.     | es with area expertise.   | miliar areas, pulls in ot | gnizes and proposes strat | gnizes and proposes strat |
+|              |                           |                           | hers as needed, and persi | egies to avoid future roa | egies to avoid future roa |
+|              |                           |                           | sts in the face of roadbl | dblocks across squads; ch | dblocks across chapters;  |
+|              |                           |                           | ocks.                     | allenges how we can impro | challenges the organizati |
+|              |                           |                           |                           | ve our technical solution | on to continuously improv |
+|              |                           |                           |                           | s.                        | e.                        |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Economic thi | Understands the importanc | When taking action, weigh | Always uses economic thin | Fosters a culture of econ | Fosters a culture of econ |
+| nking        | e of weighing cost and va | s cost and value in order | king in their own work, a | omic thinking across seve | omic thinking within the  |
+|              | lue in decision making. A | to take the most economic | nd to make suggestions to | ral squads.               | organization.             |
+|              | sks more senior engineers | action with help from mor | teammates.                |                           |                           |
+|              | for help in applying this | e senior engineers. Somet |                           |                           |                           |
+|              | type of thinking to their | imes uses this type of th |                           |                           |                           |
+|              | work.                     | inking to make suggestion |                           |                           |                           |
+|              |                           | s to teammates.           |                           |                           |                           |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Delivering F | Understands how to delive | Delivers praise and const | Delivers feedback to thei | Fosters a culture of deli | Fosters a culture of deli |
+| eedback      | r praise and constructive | ructive feedback to their | r squad's stakeholders wh | vering praise and constru | vering praise and constru |
+|              | feedback in a timely mann | squad, teammates, and man | en opportunities arise.   | ctive feedback within the | ctive feedback across sev |
+|              | er.                       | ager in a timely manner.  |                           | ir squad and squad's resp | eral squads as well as th |
+|              |                           |                           |                           | ective stakeholders.      | eir respective  stakehold |
+|              |                           |                           |                           |                           | ers.                      |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Accountabili | Has daily conversation wi | Escalates any blockers, d | Anticipates and communica | Anticipates and communica | Anticipates and communica |
+| ty           | th the squad about the pr | elays, and cost / time ba | tes blockers, delays, and | tes blockers, delays, and | tes blockers, delays, and |
+|              | ogress of their work. Del | llooning to their squad d | cost / time ballooning fo | cost / time ballooning wi | cost / time ballooning ac |
+|              | ivers on commitments with | aily. Clarifies expectati | r their work before they  | thin their squad's projec | ross squads, before they  |
+|              | a sense of urgency.       | ons with their teammates. | require escalation. Ensur | ts, before they require e | require escalation. Ensur |
+|              |                           |                           | es requirements within th | scalation. Ensures requir | es requirements across sq |
+|              |                           |                           | eir squad are clarified.  | ements with their squad a | uads and stakeholders are |
+|              |                           |                           |                           | nd external stakeholders  | clarified between all par |
+|              |                           |                           |                           | are clarified.            | ties involved.            |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Knowledge Sh | Understands their area of | Contributes to their squa | Understands their squad's | Fosters a culture of docu | Fosters a culture of docu |
+| aring        | work and shares their kno | d's documentation. Watche | domain. Encourages others | mentation and knowledge s | mentation and knowledge s |
+|              | wledge frequently with th | s out for opportunities t | to share knowledge.       | haring within their squad | haring across several squ |
+|              | eir teammates.            | o share knowledge.        |                           | and with their squad's bu | ads and their respective  |
+|              |                           |                           |                           | siness stakeholders; acti | business stakeholders; ac |
+|              |                           |                           |                           | vely demonstrates these b | tively demonstrates these |
+|              |                           |                           |                           | ehaviors.                 | behaviors.                |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Teamwork     | Helps their teammates whe | When requested, helps the | Sometimes proactively hel | Proactively helps their t | Consistently works across |
+|              | n requested and capable.  | ir teammates overcome obs | ps their teammates overco | eammates overcome obstacl | teams to help them resolv |
+|              | Gives or shares credit wh | tacles, resolve blockers, | me obstacles, resolve blo | es, resolve blockers, and | e blockers, and complete  |
+|              | ere due.                  | and complete work tasks.  | ckers, and complete work  | complete work tasks.      | work tasks. Ensures that  |
+|              |                           |                           | tasks.                    |                           | credit is shared and give |
+|              |                           |                           |                           |                           | n where due.              |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Mentorship   | Seeks out mentorship to g | Sometimes mentors their t | Mentors their teammates i | Mentors members of other  | Fosters a culture of ment |
+|              | row their own experience. | eammates in an open, resp | n an open, respectful, fl | squads as needed.         | oring across squads by se |
+|              |                           | ectful, flexible, and emp | exible, and empathetic ma |                           | eking out mentoring oppor |
+|              |                           | athetic manner.           | nner. Seeks out mentoring |                           | tunities for themselves a |
+|              |                           |                           | opportunities specificall |                           | nd others, and supports o |
+|              |                           |                           | y to create squad redunda |                           | thers in their growth as  |
+|              |                           |                           | ncy and to reduce siloing |                           | mentors.                  |
+|              |                           |                           | .                         |                           |                           |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Facilitation |                           |                           | Facilitates discussions w | Facilitates discussions a | Facilitates organization- |
+|              |                           |                           | ithin their squad, ensuri | cross squads, ensuring th | wide discussions, ensurin |
+|              |                           |                           | ng that everyone has an o | at everyone has an opport | g that everyone has an op |
+|              |                           |                           | pportunity to share their | unity to share their opin | portunity to share their  |
+|              |                           |                           | opinion and be heard, and | ion and be heard, and tha | opinion and be heard, and |
+|              |                           |                           | that discussion outcomes  | t discussion outcomes tie | that discussion outcomes  |
+|              |                           |                           | tie to stated goals. Enco | to stated goals. Ensures  | tie to stated goals.      |
+|              |                           |                           | urages quiet participants | relevant parties are incl |                           |
+|              |                           |                           | and ensures no one person | uded in discussions. Guid |                           |
+|              |                           |                           | dominates the conversatio | es discussions toward dec |                           |
+|              |                           |                           | n.                        | isions, clarifies, and ge |                           |
+|              |                           |                           |                           | ts buy-in.                |                           |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Judgement    | Ability to make considere | Able to aid in onboarding | Assess the needs of new t | Participates in hiring se | Evaluates technologies an |
+|              | d decisions               | new team members. Provide | eam members to efficientl | nior leaders and is able  | d solutions for organizat |
+|              |                           | s well-reasoned feedback  | y onboard them. Able to e | to evaluate the level and | ional level problems/chal |
+|              |                           | on their peers. May parti | valuate the level and qua | qualifications of candida | lenges.                   |
+|              |                           | cipate in hiring.         | lifications of prospectiv | tes. Evaluates and recomm |                           |
+|              |                           |                           | e candidates. Evaluates a | ends technologies for the |                           |
+|              |                           |                           | nd recommends technologie | chapter.                  |                           |
+|              |                           |                           | s for the squad.          |                           |                           |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Customer foc | Considers how their work  | Uses unique customer and  | Recognizes patterns and f | Advocates for a culture t | Works organization wide t |
+| used         | will impact the customer  | stakeholder insights to f | ailures with our products | hat values stakeholders a | o create a culture that p |
+|              | and stakeholders.         | ind better solutions for  | and uses feedback from cu | nd our customer across th | uts the customer first; u |
+|              |                           | the customer.             | stomers and customer serv | e chapter to influence de | sing insights, customer s |
+|              |                           |                           | ice to help respond to an | cisions that lead to bett | upport, and their influen |
+|              |                           |                           | d improve the quality of  | er outcomes for the custo | ce to help shape the work |
+|              |                           |                           | our products.             | mer.                      | we do.                    |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Process thin | Understands their squad's | Sometimes thinks about sq | Regularly thinks about sq | Thinks about squad practi | Thinks about practices an |
+| king         | practices and processes.  | uad practices and process | uad practices and process | ces and processes and reg | d processes that affect s |
+|              |                           | es and discusses improvem | es and discusses improvem | ularly discusses improvem | everal squads, discusses  |
+|              |                           | ents with their squad.    | ents with their squad.    | ents with their squad. So | improvements with appropr |
+|              |                           |                           |                           | metimes collaborates with | iate parties, and drives  |
+|              |                           |                           |                           | others to improve organiz | implementation. Usually c |
+|              |                           |                           |                           | ational practices and pro | ollaborates with others t |
+|              |                           |                           |                           | cesses.                   | o improve organizational  |
+|              |                           |                           |                           |                           | practices and processes.  |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Handling dis | Openly shares their opini | Approaches disagreement w | Encourages their teammate | Fosters a culture within  | Fosters a culture across  |
+| agreement    | ons and contributes to di | ith their teammates non-d | s to openly share their o | the chapter where people  | several squads, regardles |
+|              | scussions in a respectful | efensively and with inqui | pinions and contribute to | are encouraged to share t | s of chapter, where peopl |
+|              | manner. Works with teamma | sitiveness. Uses contradi | discussions in a respectf | heir opinions and contrib | e are encouraged to share |
+|              | tes to resolve disagreeme | ctory opinions as a basis | ul manner.                | ute to discussions in a r | their opinions and contri |
+|              | nt in a healthy manner. I | for constructive, product |                           | espectful manner.         | bute to discussions in a  |
+|              | s open to changing their  | ive conversations.        |                           |                           | respectful manner. Works  |
+|              | perspective and plans bas |                           |                           |                           | through surface-level dis |
+|              | ed on others' input.      |                           |                           |                           | agreements to expose the  |
+|              |                           |                           |                           |                           | concerns of disagreeing v |
+|              |                           |                           |                           |                           | oices and integrates thes |
+|              |                           |                           |                           |                           | e concerns into their per |
+|              |                           |                           |                           |                           | spective and plans.       |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Respect      | Learns and exhibits ecobe | Trusts teammates, assumes | Gives feedback to others  | Builds consensus for deci |                           |
+|              | e core values, treating o | good intent, and is able  | and trusts them to decide | sions.                    |                           |
+|              | thers with respect, honor | to disagree and commit.   | to what extent to incorpo |                           |                           |
+|              | ing commitments to the te |                           | rate it.                  |                           |                           |
+|              | am, seeking out & integra |                           |                           |                           |                           |
+|              | ting feedback.            |                           |                           |                           |                           |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Resilience   | Embracing that change is  | Able to deliver their wor | Embraces challenges as op | Help others maintain resi |                           |
+|              | constant.                 | k despite inevitable dist | portunities for growth.   | lience in periods of chan |                           |
+|              |                           | ractions.                 |                           | ge.                       |                           |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Self-aware   | Exhibits a growth mindset |                           | Self-aware of strengths a | Proactively helps others  | Coaches and mentors other |
+|              | with regard to feedback.  |                           | nd weaknesses; embraces v | identify their strengths  | s through their identifie |
+|              |                           |                           | ulnerability to aid in th | and weaknesses.           | d strengths and weaknesse |
+|              |                           |                           | eir growth                |                           | s.                        |
++--------------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+

@@ -1,5 +1,6 @@
 const {
-  table
+  table,
+  getBorderCharacters
 } = require('table');
 
 let data, config,
@@ -35,30 +36,31 @@ data = [
 ];
 
 config = {
+  border: getBorderCharacters(`ramac`),
   columns: {
     0: {
       alignment: 'left',
-      width: 10
+      width: 12
     },
     1: {
-      alignment: 'center',
-      width: 20
+      alignment: 'left',
+      width: 25
     },
     2: {
-      alignment: 'center',
-      width: 20
+      alignment: 'left',
+      width: 25
     },
     3: {
-      alignment: 'center',
-      width: 20
+      alignment: 'left',
+      width: 25
     },
     4: {
-      alignment: 'center',
-      width: 20
+      alignment: 'left',
+      width: 25
     },
     5: {
-      alignment: 'right',
-      width: 20
+      alignment: 'left',
+      width: 25
     }
   }
 };
